@@ -877,5 +877,18 @@ section {
   margin: 0 auto; /* Ensure the container is horizontally centered */
   padding: 10px; /* Optional: Add some padding */
 }
+.projects {
+  text-align: center; /* Centers the content horizontally */
+  font-family: Arial, sans-serif; /* Optional: You can set any font you like */
+  padding-top: 50px;
+}
+
+.projects a {
+  color: blue; /* Blue text color */
+  text-decoration: underline; /* Underline the links */
+  font-size: 18px; /* You can change the font size as needed */
+  margin: 10px 0; /* Space between links */
+  display: block; /* Makes each link occupy a full line */
+}
 
 
